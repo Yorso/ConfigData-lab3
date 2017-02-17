@@ -1,1 +1,0 @@
-application.yml is related to microspring4-cloud-server-lab5
